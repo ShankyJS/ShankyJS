@@ -5,7 +5,6 @@
 </em></p>
 
 [![Linkedin: shankyjs](https://img.shields.io/badge/-shankyjs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shankyjs/)](https://www.linkedin.com/in/shankyjs/)
-[![GitHub ShankyJS](https://img.shields.io/github/followers/ShankyJS?label=follow&style=social)](https://github.com/ShankyJS)
 
 ### About me
 
