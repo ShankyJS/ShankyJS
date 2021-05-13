@@ -8,6 +8,9 @@
 
 ### About me
 
+I’m an Open-Source enthusiast and a Cloud Engineer.<br><br>
+💻  Some of my skills.
+
 ```terraform
 resource "Devops_Engineer" "Jhan_Silva_Skills" {
   code    = [HCL, Javascript, Python, Bash]
