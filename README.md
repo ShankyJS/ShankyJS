@@ -24,3 +24,6 @@ resource "Devops_Engineer" "Jhan_Silva_Skills" {
 ### Github Stats
 
 ![Shanky's github stats](https://github-readme-stats.vercel.app/api?username=ShankyJS&theme=monokai)
+
+### Committers
+[![committers.top badge](https://user-badge.committers.top/canada/USERNAME.svg)](https://user-badge.committers.top/canada/USERNAME)
