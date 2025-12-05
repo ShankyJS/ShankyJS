@@ -1,8 +1,6 @@
-## Hi, I'm Jhan Silva (Shanky)! 👋 <img src="https://media3.giphy.com/media/l1J9tb9W5YNEOPdgA/giphy.gif" width="50"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
 ## 🙋🏻‍♂️ About Me
 
-**Sr. Platform Engineer** focused on **Cloud-Native**, **Kubernetes**, **DevOps Automation**, and **Open-Source**.  
+Hi, I'm Jhan Silva (Shanky)! 👋 **Sr. Platform Engineer** focused on **Cloud-Native**, **Kubernetes**, **DevOps Automation**, and **Open-Source**.  
 I’m passionate about building scalable platforms, enabling developers, and contributing to community-driven initiatives.
 
 ## 🌎 Community & Leadership
