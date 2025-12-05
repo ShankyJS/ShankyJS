@@ -4,19 +4,29 @@
 <p><em>I'm Platform Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
 </em></p>
 
+
 [![Linkedin: shankyjs](https://img.shields.io/badge/-shankyjs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shankyjs/)](https://www.linkedin.com/in/shankyjs/)
 
-### About me
+## 🙋🏻‍♂️ About me
 
-I’m an Open-Source enthusiast and a Cloud Engineer.<br><br>
-💻  Some of my skills.
+Hi, I’m **Shanky**, a **Sr. Platform Engineer** passionate about **Cloud-Native technologies**, **DevOps**, and **Open-Source communities**.  
+I love building scalable platforms, automating everything, and helping communities grow.
+
+## 🌎 Community & Leadership
+
+- 🇨🇦 **Organizer – Cloud Native Vancouver**
+- 🇸🇻 **Organizer – Cloud Native San Salvador**
+- 🎤 **Speaker & Mentor** in DevOps, Cloud, CNCF, and K8s communities  
+- 🤝 Community builder, mentoring newcomers & promoting open-source
+
+## 💻 Some of My Skills
 
 ```terraform
 resource "Devops_Engineer" "Jhan_Silva_Skills" {
-  code    = [HCL, Javascript, Python, Bash]
+  code    = [HCL, Javascript, Python, Bash, Golang]
   tooling = [Terraform, Kubernetes, Docker, Helm, Ansible, Automation, Git]
-  CICD    = [GitlabCI, Cloudbuild, GithubActions, CircleCI, Spinnaker]
-  Clouds  = [GCP, AWS, Azure, DigitalOcean, UpCloud]
+  CICD    = [GitlabCI, Cloudbuild, GH Actions, CircleCI, Spinnaker, ArgoCD, FluxCD]
+  Clouds  = [GCP, AWS, Azure, DigitalOcean, UpCloud, Linode]
   DBS     = [MySQL, MariaDB, PostgreSQL, MongoDB]
 }
 ```
