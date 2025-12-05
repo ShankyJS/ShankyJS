@@ -1,23 +1,20 @@
-<h2> Hi, I'm Jhan Silva!👋 <img src="https://media3.giphy.com/media/l1J9tb9W5YNEOPdgA/giphy.gif" width="50"></h2>
+## Hi, I'm Jhan Silva (Shanky)! 👋 <img src="https://media3.giphy.com/media/l1J9tb9W5YNEOPdgA/giphy.gif" width="50">
 
-
-<p><em>I'm Platform Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
-</em></p>
-
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 [![Linkedin: shankyjs](https://img.shields.io/badge/-shankyjs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shankyjs/)](https://www.linkedin.com/in/shankyjs/)
 
-## 🙋🏻‍♂️ About me
+## 🙋🏻‍♂️ About Me
 
-Hi, I’m **Shanky**, a **Sr. Platform Engineer** passionate about **Cloud-Native technologies**, **DevOps**, and **Open-Source communities**.  
-I love building scalable platforms, automating everything, and helping communities grow.
+**Sr. Platform Engineer** focused on **Cloud-Native**, **Kubernetes**, **DevOps Automation**, and **Open-Source**.  
+I’m passionate about building scalable platforms, enabling developers, and contributing to community-driven initiatives.
 
 ## 🌎 Community & Leadership
 
-- 🇨🇦 **Organizer – Cloud Native Vancouver**
-- 🇸🇻 **Organizer – Cloud Native San Salvador**
-- 🎤 **Speaker & Mentor** in DevOps, Cloud, CNCF, and K8s communities  
-- 🤝 Community builder, mentoring newcomers & promoting open-source
+- 🇨🇦 **Organizer – Cloud Native Vancouver**  
+- 🇸🇻 **Organizer – Cloud Native San Salvador**  
+- 🎤 **Speaker & Mentor** in CNCF, DevOps, Cloud, and Kubernetes spaces  
+- 🤝 Dedicated to mentoring newcomers and growing Open Source communities  
 
 ## 💻 Some of My Skills
 
