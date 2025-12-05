@@ -1,8 +1,4 @@
-## Hi, I'm Jhan Silva (Shanky)! 👋 <img src="https://media3.giphy.com/media/l1J9tb9W5YNEOPdgA/giphy.gif" width="50">
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-[![Linkedin: shankyjs](https://img.shields.io/badge/-shankyjs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shankyjs/)](https://www.linkedin.com/in/shankyjs/)
+## Hi, I'm Jhan Silva (Shanky)! 👋 <img src="https://media3.giphy.com/media/l1J9tb9W5YNEOPdgA/giphy.gif" width="50"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ## 🙋🏻‍♂️ About Me
 
